@@ -1,5 +1,5 @@
 
-# How tensorflow executes an operation
+# How tensorflow implements and executes an operation
 
 ## Important folders
 
